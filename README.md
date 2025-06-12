@@ -4,9 +4,8 @@
     直接copy页面值，然后根据要求计算值既可
 ### 方法二：
 [第一期](第一期)<br>
-   [01.js 混淆 - 源码乱码](第一期/01——js混淆-源码乱码/files/README.md)
-
-
+   [01.js混淆-源码乱码](第一期/01——js混淆-源码乱码/files/README.md)<br>
+   [02.js混淆-动态cookie1](第一期/02——js混淆-动态cookie1/files/README.md)
 
 
 
