@@ -8,7 +8,6 @@
 """
 import random
 import time
-from functools import reduce
 
 import execjs
 import requests
