@@ -5,7 +5,9 @@
 ### 方法二：
 [第一期](第一期)<br>
    [01.js混淆-源码乱码](第一期/01——js混淆-源码乱码/files/README.md)<br>
-   [02.js混淆-动态cookie1](第一期/02——js混淆-动态cookie1/files/README.md)
+   [02.js混淆-动态cookie1](第一期/02——js混淆-动态cookie1/files/README.md)<br>
+   [03.访问逻辑-推心置腹](第一期/03——访问逻辑-推心置腹/files/README.md)<br>
+   [04.雪碧图、样式干扰](第一期/04——雪碧图、样式干扰/files/README.md)<br>
 
 
 
