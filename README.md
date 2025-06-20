@@ -8,6 +8,7 @@
    [02.js混淆-动态cookie1](第一期/02——js混淆-动态cookie1/files/README.md)<br>
    [03.访问逻辑-推心置腹](第一期/03——访问逻辑-推心置腹/files/README.md)<br>
    [04.雪碧图、样式干扰](第一期/04——雪碧图、样式干扰/files/README.md)<br>
+   [05.js 混淆-乱码增强](第一期/05——js%20混淆-乱码增强/files/README.md)<br>
 
 
 
