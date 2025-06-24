@@ -7,19 +7,15 @@
 # @文件介绍 :
 """
 import base64
-import re
 import html
+import re
 from io import BytesIO
 
 import requests
-from fontTools.pens.svgPathPen import SVGPathPen
 from fontTools.ttLib import TTFont
 
 cookies = {
-    'sessionid': 'jwxet0idmq3dlrncz0qaep5g15hupbvw',
-    'RM4hZBv0dDon443M': 'ZkzA9aeAqAp6iu75xpavuYta0JQnLdaO6lnlB3E9GQP81lxqLHBHl3LuBoEcTfFc2chYum2AHCrRdi2L8ILTSI6mSYxImW2yCPESRcHZzCGPH4Qv40s5N5SEH8E0Ufu3IZCk5AEgCEeAfbPzgrvAky9FJ66fvQi6UA+R1jBZxpkRiooAZ1MpaoJkGOyGKnjwRjtvTOCgwCWKBO3+1HnirUcLb3Hi1Z98mDN1SnC5X9U=',
-    'no-alert3': 'true',
-    'm': '155',
+
 }
 
 headers = {
