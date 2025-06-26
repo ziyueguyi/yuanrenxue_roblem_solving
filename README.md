@@ -11,6 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[05.js 混淆-乱码增强](第一期/05——js%20混淆-乱码增强/files/README.md)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[06.js 混淆-回溯](第一期/06——js%20混淆-回溯/files/README.md)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[07.动态字体，随风漂移](第一期/07——动态字体，随风漂移/files/README.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[08.验证码-图文点选](第一期/08——验证码-图文点选/files/README.md)<br>
 
 
 
